@@ -8,10 +8,10 @@
 <body>
     <h2>Basic Form</h2>
 
+
     <form action="process.php" method="post">
         <input name="username" type="text" placeholder="Enter Username">
         <input name="password" type="text" placeholder="Enter Password">
-        <input name="status" type="text" placeholder="Enter Status">
         <input type="submit">
     </form>
 </body>
